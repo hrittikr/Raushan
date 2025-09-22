@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main(){
+
+    cout <<"kyu nhi ho rhi padhai"<<endl;
+    cout <<"kya karu"<<endl;
+    cout <<"kya karu"<<endl;
+    cout <<"kya karu"<<endl;
+
+}
