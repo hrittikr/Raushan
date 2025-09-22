@@ -17,6 +17,13 @@ int main(){
     cout <<x-y<<endl;
     cout <<x/y<<endl;
     cout <<x%y<<endl;
+    printf ("ABES EC ghaziabad\n");
+    cout <<"ABES IT GHAZIABAD"<<endl;
+
+
+
+    return 0;
+
     
     
 
